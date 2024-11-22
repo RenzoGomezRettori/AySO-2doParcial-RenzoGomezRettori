@@ -25,7 +25,7 @@
 
     296  ip address show
   297  ll .ssh/
-  298  echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCfEMtmy2NNKgvGpltV0L6JD+5qBczaL/fzkTjF835IDdYUImMCnvWxZu4AR0W7tSUf4+1J2BUA3OwfnoZTwPwltae6T4/ptPxNczjIWuD3ZNCMzaJpwXgaikXQN/2dt2VY7B4/hisZy/to2naYilJfGcfgo7FbfFSPxVtR2hjDDNpGcZkpJKH4aRc1VeWcIK7HCGACaCAvE+LIsX2ttc0XxsoOXEhJIr6+rn9slBFpSHxWxfmSgxgqiM3kSmox/Dr+OQmHGV9sB6F9/pAlA7nhkeU7uUS4zS7wZN/I33B6bJP9sB3z5XcDwVRe9RgNcApzo7MqM1ZXNRlXs+od7N6aETAi8fVAGugfs49VdI6gn3qRY/8uj5Ga2SYzMPFpSkQGSG6VIToljYYdquMgHaoq5TeP/G2hkEsEPZQK6idHwj+36bMFYMc4WNAJpjZvC9zlAoiMlVnEFW4zcqY8EmTW+/dh60LLVhYmFFRLE6rdpD1hNt39GB9SYwXWHi/QPd8= vagrant@vm2doParcial" >> .ssh/authorized_keys
+  298  echo "ssh-rsa i/QPd8= vagrant@vm2doParcial" >> .ssh/authorized_keys
   299  cat vim authorized_keys
   300  ll
   301  cd .ssh/
